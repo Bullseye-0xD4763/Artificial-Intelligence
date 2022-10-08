@@ -7,11 +7,12 @@
 Artificial Intelligence Powered Software for a theoretical Delivery.
 
 
-Performs an algorithmic search for best possible path, based on a multitude of factors. It implements the following strategies:
+Performs an algorithmic search for best possible path, based on a multitude of factors. 
 
-'''
+Implemented Strategies
+-----------------------------
+
 - Depth First
 - Breadth First
 - Greedy Search
 - A*
-'''
